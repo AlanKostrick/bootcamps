@@ -1,6 +1,6 @@
 # Bootcamps
 
-This application demo's a simple api with a relationship between Campuses and Bootcamps. 
+This application demos a simple api with a relationship between Campuses and Bootcamps. 
 
 There are no thymeleaf templates, front end is created through using `fetch API` in JavaScript. 
 
